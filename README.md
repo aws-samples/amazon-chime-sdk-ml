@@ -8,7 +8,7 @@ To provide feedback, please file an issue.
 
 ### Amazon Voice Focus AMI (Amazon Linux 2)
 
-- [Voice Focus AMI Async File Processing CDK]() - Creates a file processing voice focus infrastructure in AWS account. 
+- [Voice Focus AMI Async File Processing CDK](https://github.com/aws-samples/amazon-chime-sdk-ml/tree/main/Amazon%20Voice%20Focus%20AMI%20(Amazon%20Linux%202)/VoiceFocusAMIAsyncFileProcessingCDK) - Creates a file processing voice focus infrastructure in AWS account. 
 
 ## Resources
 
