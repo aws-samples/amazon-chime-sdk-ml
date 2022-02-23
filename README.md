@@ -1,11 +1,19 @@
-## My Project
+## Amazon Chime ML Samples
 
-TODO: Fill this README out!
+This repository contains samples intended to demonstrate different use cases for the ML products of Amazon Chime SDK. Each sample is accompanied by its own set of instructions to get you started.
 
-Be sure to:
+To provide feedback, please file an issue.
 
-* Change the title in this README
-* Edit your repository description on GitHub
+## Samples
+
+### Amazon Voice Focus AMI (Amazon Linux 2)
+
+- [Voice Focus AMI Async File Processing CDK]() - Creates a file processing voice focus infrastructure in AWS account. 
+
+## Resources
+
+- [Amazon Chime SDK Speech Enhancement](https://aws.amazon.com/chime/chime-sdk/features/#Speech_Enhancement)
+- [Amazon Voice Focus](https://www.amazon.science/blog/how-amazon-chimes-challenge-winning-noise-cancellation-works)
 
 ## Security
 
